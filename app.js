@@ -1,18 +1,4 @@
-// Select The Start Game Button
-// const startGame = document.querySelector(".control-buttons span") .onclick = function(){
 
-
-//   let yourName = prompt (' What is your name ?')
-//   console.log(yourName);
-// }
-
-// wrong
-//    const startGame = (event) => {
-//    event.prompt("Whats Your Name?");
-//    console.log(yourName);
-//   } 
-
-// startGame.addEventListener('click',startGame)
 
 const startGame = document.querySelector(".firstPage-button >span");
 
