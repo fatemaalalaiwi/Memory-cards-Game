@@ -21,6 +21,8 @@
 
  5. The game concludes when all pairs are successfully matched.
 
+[Live Demo](https://fatemaalalaiwi.github.io/Memory-cards-Game/)
+
  ## Technologies Used
  * ***HTML :***  Structure of the game.
 
